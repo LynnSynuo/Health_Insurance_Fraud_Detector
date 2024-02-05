@@ -37,7 +37,10 @@ Forgery: Creating or using forged prescriptions\
 Diversion: Diverting legal prescriptions for illegal uses, such as selling your prescription medication\
 Doctor shopping: Visiting multiple providers to get prescriptions for controlled substances or getting prescriptions from medical offices that engage in unethical practices
 
-#
+# Phases of a Medical Bill
+![Phases_of_a_medical-bill](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/dd0591c5-c8f3-4720-9b24-ea2b638a9047)
+
+# How the Fraud Detector Works? 
 
 
 
