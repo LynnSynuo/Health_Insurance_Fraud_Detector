@@ -20,10 +20,10 @@ Earlier this year, a Michigan doctor was sentenced to prison for defrauding heal
 # Common Types of Healthcare Fraud
 - Fraud Committed by Medical Providers
 
-Double billing: Submitting multiple claims for the same service
-Phantom billing: Billing for a service visit or supplies the patient never received
-Unbundling: Submitting multiple bills for the same service
-Upcoding: Billing for a more expensive service than the patient actually received
+Double billing: Submitting multiple claims for the same service <br>
+Phantom billing: Billing for a service visit or supplies the patient never received <br>
+Unbundling: Submitting multiple bills for the same service <Br>
+Upcoding: Billing for a more expensive service than the patient actually received <br>
 
 - Fraud Committed by Patients and Other Individuals
 
