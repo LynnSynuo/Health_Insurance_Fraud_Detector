@@ -68,8 +68,7 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 
 # Model Performance Overtime
 
-
-
+![Medical Provider Fraud Detector_2023 12 15 updated (3)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/c8acbd74-2e33-4f3b-a044-79fdb766f9f7)
 
 # Claims Get Processed Each Day_Outpatient
 - Claim processing duration: 1.4 days in average
