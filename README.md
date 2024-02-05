@@ -17,3 +17,17 @@ Discovering a single fraudulent claim could indicate a pattern or a systemic iss
 
 Earlier this year, a Michigan doctor was sentenced to prison for defrauding health insurers out of $250 million by billing for unnecessary spinal injections as part of an opioid distribution scheme. Over a five-year period, the physician billed Medicare for these lucrative injections more than any other provider in the nation, giving opioid prescriptions to patients who would receive the medically needless shots. 
                                                                                                                             - Definitive Healthcare
+# Common Types of Healthcare Fraud
+- Fraud Committed by Medical Providers
+Double billing: Submitting multiple claims for the same service
+Phantom billing: Billing for a service visit or supplies the patient never received
+Unbundling: Submitting multiple bills for the same service
+Upcoding: Billing for a more expensive service than the patient actually received
+- Fraud Committed by Patients and Other Individuals
+Bogus marketing: Convincing people to provide their health insurance identification number and other personal information to bill for non-rendered services, steal their identity, or enroll them in a fake benefit plan
+Identity theft/identity swapping: Using another person’s health insurance or allowing another person to use your insurance
+Impersonating a healthcare professional: Providing or billing for health services or equipment without a license
+- Fraud Involving Prescriptions
+Forgery: Creating or using forged prescriptions
+Diversion: Diverting legal prescriptions for illegal uses, such as selling your prescription medication
+Doctor shopping: Visiting multiple providers to get prescriptions for controlled substances or getting prescriptions from medical offices that engage in unethical practices
