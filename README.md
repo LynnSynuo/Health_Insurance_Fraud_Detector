@@ -57,11 +57,15 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 - Claim processing duration: 5.5 days in average
 - Frequency of running model: Weekly
 - 764 claims are processed each week in average
+
 ![download](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/49cad5ed-1528-43ee-a34b-2862552f0d5f)
 
 # Split Data In Progressive Manner
 - Split the data into training and testing sets in a progressive manner 
 - Train & predict with different data at each step
+
+![Medical Provider Fraud Detector_2023 12 15 updated (2)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/71338fc9-689e-45f4-9779-169edfe9e650)
+
 
 
 
