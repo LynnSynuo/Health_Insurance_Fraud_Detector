@@ -41,8 +41,27 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 ![Phases_of_a_medical-bill](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/dd0591c5-c8f3-4720-9b24-ea2b638a9047)
 
 # How the Fraud Detector Works? 
+![Medical Provider Fraud Detector_2023 12 15 updated (1)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/785a5171-9ff7-4839-b296-b50ca69d428c)
 
+# Data Source
+- Data source: https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis/ 
+- Data from Medicare, a federal health insurance program in the United States
+- Historical claim data from 2009
+- Multiple datasets
 
 
 # Data Structure
 ![DB schema_2023 12 08 updated](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/9742dade-8258-4131-9d1d-e0b1c0eb75d0)
+
+# Claims Get Processed Each Week_Inpatient
+- Claim processing duration: 5.5 days in average
+- Frequency of running model: Weekly
+- 764 claims are processed each week in average
+
+
+# Claims Get Processed Each Day_Outpatient
+- Claim processing duration: 1.4 days in average
+- Frequency of running model: Daily
+- 1,415 claims are processed each day in average
+
+
