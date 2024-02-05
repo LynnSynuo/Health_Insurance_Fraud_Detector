@@ -77,4 +77,6 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 
 ![download (1)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/71c4d7be-998e-41c0-a9e2-7ee53c2a1b89)
 
+# Model Performance Overtime
 
+![u](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/0a8122f9-5507-436b-915d-8084a0570143)
