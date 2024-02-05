@@ -1,12 +1,12 @@
 # Health_Insurance_Fraud_Detector
 
 # Project Description
-Health insurance fraud is one of the biggest problem facing medicare
-We work as a fraud team in Medicare, a federal health insurance program
+Health insurance fraud is one of the biggest problem facing medicare\
+We work as a fraud team in Medicare, a federal health insurance program\
 
 We proposed two directions to address this problem:
-Identify fraudulent claims 
-Identify false healthcare provider
+- Identify fraudulent claims
+- Identify false healthcare provider
 
 Discovering a single fraudulent claim could indicate a pattern or a systemic issue
 
@@ -23,7 +23,7 @@ Earlier this year, a Michigan doctor was sentenced to prison for defrauding heal
 Double billing: Submitting multiple claims for the same service\
 Phantom billing: Billing for a service visit or supplies the patient never received \
 Unbundling: Submitting multiple bills for the same service \
-Upcoding: Billing for a more expensive service than the patient actually received\
+Upcoding: Billing for a more expensive service than the patient actually received
 
 - Fraud Committed by Patients and Other Individuals
 
