@@ -66,6 +66,7 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 
 ![Medical Provider Fraud Detector_2023 12 15 updated (2)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/71338fc9-689e-45f4-9779-169edfe9e650)
 
+# Model Performance Overtime
 
 
 
@@ -73,5 +74,7 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 - Claim processing duration: 1.4 days in average
 - Frequency of running model: Daily
 - 1,415 claims are processed each day in average
+
+![download (1)](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/71c4d7be-998e-41c0-a9e2-7ee53c2a1b89)
 
 
