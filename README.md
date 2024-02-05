@@ -70,6 +70,7 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 
 
 
+
 # Claims Get Processed Each Day_Outpatient
 - Claim processing duration: 1.4 days in average
 - Frequency of running model: Daily
