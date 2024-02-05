@@ -36,3 +36,10 @@ Impersonating a healthcare professional: Providing or billing for health service
 Forgery: Creating or using forged prescriptions\
 Diversion: Diverting legal prescriptions for illegal uses, such as selling your prescription medication\
 Doctor shopping: Visiting multiple providers to get prescriptions for controlled substances or getting prescriptions from medical offices that engage in unethical practices
+
+#
+
+
+
+# Data Structure
+![DB schema_2023 12 08 updated](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/9742dade-8258-4131-9d1d-e0b1c0eb75d0)
