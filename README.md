@@ -15,25 +15,16 @@ helping us protect Medicare's integrity and ensure its resources are used approp
 - Benchmark 1: Rely on domain experts to manually review claims, ~0.00%
 - Benchmark 2: Claim Audits Team , random or target, vary 20%-40%
 
-# Common Types of Healthcare Fraud
-- Fraud Committed by Medical Providers
+# Metrics to Evaluate the Effectiveness of the Model
+- False Positive: Denial of Insurance Benefits for Legitimate Claims.
+Business Impact: Degrade the insurance companies’ reputation and undermine customer trust.
 
-Double billing: Submitting multiple claims for the same service\
-Phantom billing: Billing for a service visit or supplies the patient never received \
-Unbundling: Submitting multiple bills for the same service \
-Upcoding: Billing for a more expensive service than the patient actually received
+- False Negative: Authorization of Insurance Benefits for Fraudulent Claims.
+Business Impact: Lead to significant monetary losses for insurance companies.
 
-- Fraud Committed by Patients and Other Individuals
+- Fβ Score: Keep a balance between business interests and the company's reputation, with the exact beta value determined by the company's economic situation and strategic objectives.
 
-Bogus marketing: Convincing people to provide their health insurance identification number and other personal information to bill for non-rendered services, steal their identity, or enroll them in a fake benefit plan\
-Identity theft/identity swapping: Using another person’s health insurance or allowing another person to use your insurance\
-Impersonating a healthcare professional: Providing or billing for health services or equipment without a license
 
-- Fraud Involving Prescriptions
-
-Forgery: Creating or using forged prescriptions\
-Diversion: Diverting legal prescriptions for illegal uses, such as selling your prescription medication\
-Doctor shopping: Visiting multiple providers to get prescriptions for controlled substances or getting prescriptions from medical offices that engage in unethical practices
 
 # Phases of a Medical Bill
 ![Phases_of_a_medical-bill](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/dd0591c5-c8f3-4720-9b24-ea2b638a9047)
