@@ -3,6 +3,21 @@
 # Project Description
 Health insurance fraud is a significant challenge facing Medicare, a federal health insurance program. As the Fraud Detection and Prevention Unit, our mission is to assist Medicare in identifying and preventing potential fraudulent claims.
 
+# What is the problem you would like to solve? Why is it important?
+- Healthcare Fraud is one of the major problems in the US Healthcare System, leading to tens of billions of dollars lost each year.  
+
+- Insurance Agencies like Medicare, Medicaid, and other agencies have to spend more money, and to incur financial losses, they have to decide to increase the insurance premium amount. Eventually, the healthcare system is becoming more and more expensive for everyone.
+
+- Not only is financial loss a major concern, but fraud can also lead to unnecessary procedures, inappropriate medications, and even over-treatment, putting patients at risk. 
+
+# Business Value of the Solution
+- Goal: Detect as many fraud claims as possible
+
+- The average cost of $1000 per claim reimbursement
+
+- Every 1% increase in detection rate can save hundreds of millions nationwide
+
+
 We have proposed two strategic approaches to address this issue:
 - Identify fraudulent claims: By detecting individual fraudulent claims, we can uncover patterns that may indicate broader systemic issues.
 - Identify false healthcare providers: By scrutinizing healthcare providers, we can expose those who engage in fraudulent practices.
