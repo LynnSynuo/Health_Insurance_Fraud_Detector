@@ -21,7 +21,7 @@ Business Impact: Degrade the insurance companies’ reputation and undermine cus
 Business Impact: Lead to significant monetary losses for insurance companies.
 
 - Fβ Score: Keep a balance between business interests and the company's reputation, with the exact beta value determined by the company's economic situation and strategic objectives.
-
+![F-beta](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/29bc7671-97bb-4b67-9941-51d06db1e96b)
 
 
 # Phases of a Medical Bill
