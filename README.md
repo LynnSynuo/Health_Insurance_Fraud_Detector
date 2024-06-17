@@ -53,11 +53,6 @@ Doctor shopping: Visiting multiple providers to get prescriptions for controlled
 # Data Structure
 ![DB schema_2023 12 08 updated](https://github.com/LynnSynuo/Health_Insurance_Fraud_Detector/assets/117470609/9742dade-8258-4131-9d1d-e0b1c0eb75d0)
 
-# Getting Started
-Include instructions on how to install and set up your project. If necessary, include any dependencies and how to install them.
-
-# Usage
-Explain how to use your project. Include code snippets, examples, or screenshots if helpful.
 
 # Claims Get Processed Each Week_Inpatient
 - Claim processing duration: 5.5 days in average
