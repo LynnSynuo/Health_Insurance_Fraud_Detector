@@ -1,7 +1,7 @@
 # Health_Insurance_Fraud_Detector
 
 # Project Description
-Health insurance fraud is one of the biggest problems facing Medicare.
+Health insurance fraud is one of the biggest problems facing Medicare./
 We work as a Fraud Detection and Prevention Unit, to help Medicare, a federal health insurance program, detect potential fraudulent claims.
 
 We proposed two directions to address this problem:
