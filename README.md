@@ -2,7 +2,7 @@
 
 # Project Description
 Health insurance fraud is one of the biggest problem facing medicare\
-We work as a fraud team in Medicare, a federal health insurance program
+We work as a Fraud Detection and Prevention Unit, to help Medicare, a federal health insurance program, detect potential fraudulent claims.
 
 We proposed two directions to address this problem:
 - Identify fraudulent claims
