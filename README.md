@@ -11,13 +11,10 @@ We have proposed two strategic approaches to address this issue:
 Detecting a single fraudulent claim can often reveal larger, underlying patterns of fraud, \
 helping us protect Medicare's integrity and ensure its resources are used appropriately.
 
-# Case of Healthcare Fraud
-“The majority of fraud cases are schemes perpetrated by highly sophisticated organizations, not hospitals or physicians who may make a billing error or two,” Stewart said. 
-“For example, criminal organizations may buy health data on the dark web, pose as clinicians, and then submit fake health insurance claims using the data.”
-                                                                                                                            - Blue Cross Blue Shield of Massachusetts
+# Benchmark
+- Benchmark 1: Rely on domain experts to manually review claims, ~0.00%
+- Benchmark 2: Claim Audits Team , random or target, vary 20%-40%
 
-Earlier this year, a Michigan doctor was sentenced to prison for defrauding health insurers out of $250 million by billing for unnecessary spinal injections as part of an opioid distribution scheme. Over a five-year period, the physician billed Medicare for these lucrative injections more than any other provider in the nation, giving opioid prescriptions to patients who would receive the medically needless shots. 
-                                                                                                                            - Definitive Healthcare
 # Common Types of Healthcare Fraud
 - Fraud Committed by Medical Providers
 
