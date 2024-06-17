@@ -1,15 +1,13 @@
 # Health_Insurance_Fraud_Detector
 
 # Project Description
-Health insurance fraud is a significant challenge facing Medicare, a federal health insurance program. \
-As the Fraud Detection and Prevention Unit, our mission is to assist Medicare in identifying and preventing potential fraudulent claims.
+Health insurance fraud is a significant challenge facing Medicare, a federal health insurance program. As the Fraud Detection and Prevention Unit, our mission is to assist Medicare in identifying and preventing potential fraudulent claims.
 
 We have proposed two strategic approaches to address this issue:
 - Identify fraudulent claims: By detecting individual fraudulent claims, we can uncover patterns that may indicate broader systemic issues.
 - Identify false healthcare provider: By scrutinizing healthcare providers, we can expose those who engage in fraudulent practices.
 
-Detecting a single fraudulent claim can often reveal larger, underlying patterns of fraud, \
-helping us protect Medicare's integrity and ensure its resources are used appropriately.
+Detecting a single fraudulent claim can often reveal larger, underlying patterns of fraud, helping us protect Medicare's integrity and ensure its resources are used appropriately.
 
 # Benchmark
 - Benchmark 1: Rely on domain experts to manually review claims, ~0.00%
